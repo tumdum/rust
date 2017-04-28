@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   git \
   sudo \
   bzip2 \
+  p7zip-full \
   xz-utils \
   swig \
   libedit-dev \

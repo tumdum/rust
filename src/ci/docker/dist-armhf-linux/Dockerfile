@@ -23,6 +23,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   sudo \
   texinfo \
   wget \
+  p7zip-full \
   xz-utils \
   libssl-dev \
   pkg-config

@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   git \
   cmake \
   sudo \
+  p7zip-full \
   xz-utils \
   zlib1g-dev \
   g++-arm-linux-gnueabi \
