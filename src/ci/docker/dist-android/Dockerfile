@@ -16,6 +16,7 @@ RUN dpkg --add-architecture i386 && \
   openjdk-9-jre \
   sudo \
   libstdc++6:i386 \
+  p7zip-full \
   xz-utils \
   libssl-dev \
   pkg-config

@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   cmake \
   sudo \
   gdb \
+  p7zip-full \
   xz-utils \
   g++-mipsel-linux-gnu \
   libssl-dev \

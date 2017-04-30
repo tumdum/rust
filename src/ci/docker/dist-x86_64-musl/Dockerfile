@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   python2.7 \
   git \
   cmake \
+  p7zip-full \
   xz-utils \
   sudo \
   gdb \

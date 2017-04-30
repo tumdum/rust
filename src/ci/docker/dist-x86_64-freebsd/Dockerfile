@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   cmake \
   sudo \
   bzip2 \
+  p7zip-full \
   xz-utils \
   wget \
   libssl-dev \
